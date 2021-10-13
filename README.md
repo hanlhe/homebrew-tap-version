@@ -2,8 +2,8 @@
 
 ## How do I install these formulae?
 
-- `brew install hanlhe/homebrew-tap-version/rocksdb@5.18.3`
-- `brew install hanlhe/homebrew-tap-version/maven@3.6.3`
+- `brew install hanlhe/tap-version/rocksdb@5.18.3`
+- `brew install hanlhe/tap-version/maven@3.6.3`
 
 ## Documentation
 
